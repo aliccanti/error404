@@ -9,4 +9,4 @@
   <li>CSS</li>
 </ul>
 
-<p align="center"> Criado seguindo o conceito mobile fisrt.</p>
+<p align="center"> Criado seguindo o conceito mobile first.</p>
